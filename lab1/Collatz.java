@@ -7,6 +7,7 @@ public class Collatz {
      * @param n
      * @author Lidaxian
      */
+
     public static int nextNumber(int n) {
         if (n == 1) {
             return 1;
